@@ -4,8 +4,8 @@ public class User {
     public User(String name, int age){
         this.name = name;
         this.age = age;
-        int sum = 0
-    public String getName(){
+        int sum = 0;
+    public String getName() {
             return this.name;
         }
     public int getAge() {

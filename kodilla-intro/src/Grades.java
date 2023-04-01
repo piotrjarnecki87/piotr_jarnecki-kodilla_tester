@@ -1,3 +1,5 @@
+package src;
+
 public  class Grades {
     private int[] grades;
     private int size;
@@ -20,6 +22,7 @@ public  class Grades {
             return grades[10];
         }
     }
+
 
     public avgGrades() {
         int result = 0;
