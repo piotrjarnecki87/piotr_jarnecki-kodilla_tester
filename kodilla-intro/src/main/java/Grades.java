@@ -1,5 +1,4 @@
-package src;
-
+/*
 public  class Grades {
     private int[] grades;
     private int size;
@@ -33,4 +32,4 @@ public  class Grades {
         }
 
     }
-}
+}*/
