@@ -23,7 +23,7 @@ public class Application {
         }
 
         int squareResult = calculator.square(a);
-        boolean correctsquare = ResultChecker.assertEquals(32768, squareResult);
+        boolean correctsquare = ResultChecker.assertEquals(64, squareResult);
         if(correctsquare){
             System.out.println("Metoda square działa poprawnie dla liczb " + a + " i " + b);
         } else {
