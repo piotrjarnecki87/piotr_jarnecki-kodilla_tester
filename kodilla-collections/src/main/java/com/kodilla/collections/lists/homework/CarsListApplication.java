@@ -28,8 +28,9 @@ public class CarsListApplication {
         System.out.println("Końcowa lista aut:");
         for (Car car : carArrayList){
             CarUtils.describeCar(car);
-        }
 
+
+        }
 
     }
 }
