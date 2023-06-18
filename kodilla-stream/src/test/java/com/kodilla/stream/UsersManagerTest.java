@@ -36,6 +36,5 @@ public void testGetUsersOlderThan() {
         Assertions.assertTrue(user.getNumberOfPost() > numberOfPostUnder);
     }
 
-
 }
 }

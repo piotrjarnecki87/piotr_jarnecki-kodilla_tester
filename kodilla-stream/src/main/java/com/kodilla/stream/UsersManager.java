@@ -38,6 +38,4 @@ public class UsersManager {
                 .map(User :: getUsername)
                 .collect(Collectors.toList());
     }
-
-
 }
