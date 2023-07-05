@@ -8,4 +8,6 @@ include 'kodilla-collections'
 include 'kodilla-collections-advanced'
 include 'kodilla-stream'
 include 'practise01'
+include 'kodilla-advanced-tests'
+include 'Cwiczenia01'
 
